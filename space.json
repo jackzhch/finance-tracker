@@ -1,0 +1,8 @@
+{
+  "runtime": "typescript",
+  "platformVersion": 21,
+  "entry": "client/dist/index.html",
+  "name": "Finance Tracker",
+  "slug": "finance-tracker",
+  "managedCronJobs": ["finance-tracker-sync"]
+}

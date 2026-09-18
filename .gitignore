@@ -1,0 +1,10 @@
+node_modules/
+*.db
+*.db-shm
+*.db-wal
+blobs/
+dist/
+audits/
+.bun-cache/
+.harness/
+.space-build*/
