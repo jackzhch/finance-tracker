@@ -36,6 +36,41 @@
       "when": 1789716044336,
       "tag": "0005_add_snapshot_categories",
       "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1789719048471,
+      "tag": "0006_add_card_benefits_and_financial_goals",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1789720157051,
+      "tag": "0007_add_account_asset_types_and_credit_card_rewards",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1789721006217,
+      "tag": "0008_expand_account_types_for_loans",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1789722442621,
+      "tag": "0009_add_account_type_labels",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "6",
+      "when": 1789723439078,
+      "tag": "0010_add_holding_daily_gain",
+      "breakpoints": true
     }
   ]
 }
